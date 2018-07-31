@@ -1,0 +1,20 @@
+{
+  "name": "hwsummit20180625",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "debug": "node --inspect index.js"
+  },
+  "author": "john",
+  "license": "ISC",
+  "dependencies": {
+    "api-ai-recognizer": "^1.1.1",
+    "botbuilder": "^3.15.0",
+    "config": "^1.30.0",
+    "request": "^2.87.0",
+    "restify": "^7.2.1"
+  }
+}

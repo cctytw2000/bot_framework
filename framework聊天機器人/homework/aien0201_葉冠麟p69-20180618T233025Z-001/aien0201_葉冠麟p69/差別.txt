@@ -1,0 +1,2 @@
+session.replaceDialog  適用於重複同一個動作
+session.beginDialog    調用與用戶選擇對應的對話框

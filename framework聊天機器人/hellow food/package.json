@@ -1,0 +1,15 @@
+{
+  "name": "firstbaobaobot",
+  "version": "1.0.0",
+  "description": "first baobaobot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuanlin",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "3.12.0",
+    "restify": "6.3.2"
+  }
+}
